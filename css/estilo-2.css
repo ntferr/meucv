@@ -1,0 +1,65 @@
+@media only screen and (max-device-width: 1920px) {
+    /* .menu { width:600px; } */
+    }
+body {
+    background-color: grey;
+    background: url(../img/tech.png) center, no-repeat;
+
+}
+.content_top {
+    text-align: center;
+    position: relative;
+}
+.content-center {
+	
+    float: left;
+    margin-left: 24.0em; 
+	position: relative;
+	width: 37.0em;
+	height: 35.0em;
+	border: solid;
+	border-bottom-style: outset;
+	border-color: #E4E4E4;
+    box-shadow: 2px 2px 10px 5px black;
+    background-color: rgba(136, 135, 135, 0.712);
+}
+.content-center h2 {
+    color: black;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+legend {
+    font-size: 1.0em;
+    font-family: 'Cinzel', serif;
+}
+label {
+    font-family: 'Cinzel', serif;
+}
+.content-center p {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+.clear {
+    clear: both;
+}
+
+footer {
+    clear: both;
+    box-shadow: 0.3em 0.3em 0.3em 0.3em black;
+    border-top: 0.1px solid rgba(205,207,210,.7);
+    margin-top: 2.8em;
+    padding-top: 0.4em;
+    padding-bottom: 2.5em;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(7, 140, 201, 0.404);
+    border-color: gray;
+    border-style: inset;
+}
+.btn-meio {
+    margin-left: 15.0em;
+}
+.stl-btn {
+    width: 6.2em;
+    border-radius: 50%;
+}
